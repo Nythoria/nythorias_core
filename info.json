@@ -1,7 +1,7 @@
 {
     "name": "nythorias_core",
     "version": "1.0.0",
-    "title": "✔ Nythoria's Assembly Machines",
+    "title": "✔ Nythoria's Core",
     "author": "Nythoria",
     "factorio_version": "1.1",
     "dependencies": [
