@@ -1,0 +1,10 @@
+{
+    "name": "nythorias_core",
+    "version": "1.0.0",
+    "title": "✔ Nythoria's Assembly Machines",
+    "author": "Nythoria",
+    "factorio_version": "1.1",
+    "dependencies": [
+    ],
+    "description": "The Core of all of Nythoria's Mods"
+  }
